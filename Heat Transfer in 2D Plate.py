@@ -19,7 +19,7 @@ numerical_error=1
 epsilon=1.E-8
 K=0.1
 a=0.001
-
+#ok
 
 numerical_error=1
 epsilon=1.E-8
